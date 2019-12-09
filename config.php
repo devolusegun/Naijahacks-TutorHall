@@ -9,7 +9,7 @@
  */
 
 /** 
- * Configuration file.
+ * Configuration file
  */
 
 	$INCPATH = dirname(__FILE__).'/';
