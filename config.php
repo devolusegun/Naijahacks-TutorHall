@@ -12,17 +12,17 @@
  * Configuration file.
  */
 
-	$C->INCPATH = dirname(__FILE__).'/';
-	chdir( $C->INCPATH );
+	$INCPATH = dirname(__FILE__).'/';
+	chdir( $INCPATH );
 	
-	$C->SITE_URL = 'http://www.tutorhall.com/';
-	$C->DOMAIN = 'http://www.tutorhall.com';
+	$SITE_URL = 'http://www.tutorhall.com/';
+	$DOMAIN = 'http://www.tutorhall.com';
 
 	// MySQL SETTINGS
-	$C->DB_HOST = 'localhost';
-	$C->DB_USER = 'tutorhall_admin';
-	$C->DB_PASS = '264g-1&DdT)&';
-	$C->DB_NAME = 'tutorhall_db';
-	$C->DB_MYEXT = 'mysql'; // 'mysqli' or 'mysql'
+	$DB_HOST = 'localhost';
+	$DB_USER = 'tutorhall_admin';
+	$DB_PASS = '264g-1&DdT)&';
+	$DB_NAME = 'tutorhall_db';
+	$DB_MYEXT = 'mysql'; // 'mysqli' or 'mysql'
 
 ?>
