@@ -7,7 +7,7 @@
 - Emmanuel Onuoha, emmanuelonuoha25@gmail.com
 - Aina Oluwatimilehin, wizkevinaaina@gmail.com,
 - Okemati Lanre, Lanrayokemati@yahoo.com
-- Olusegun Solomon
+- Olusegun Solomon, sirjfkay@gmail.com
 
 # Problems
 
